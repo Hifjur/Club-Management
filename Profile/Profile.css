@@ -1,0 +1,9 @@
+p {
+    border-bottom: 1px dotted gray;
+}
+
+img {
+    border-radius: 10px;
+    border-bottom: 5px solid gray;
+    border-right: 5px solid gray;
+}
